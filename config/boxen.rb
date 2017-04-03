@@ -5,7 +5,7 @@
 # ENV['BOXEN_HOME'] = '/opt/boxen'
 
 # Change boxen github login name
-ENV["BOXEN_GITHUB_LOGIN"] = 'rudymccomb'
+ENV["BOXEN_GITHUB_LOGIN"] = 'rudy@thnkbig.com'
 
 # Change the repo boxen will use.
 # ENV['BOXEN_REPO_NAME'] = 'boxen/our-boxen'
