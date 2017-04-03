@@ -4,6 +4,9 @@
 # Change the prefix boxen is installed to.
 # ENV['BOXEN_HOME'] = '/opt/boxen'
 
+# Change boxen github login name
+ENV["BOXEN_GITHUB_LOGIN"] = 'rudymccomb'
+
 # Change the repo boxen will use.
 # ENV['BOXEN_REPO_NAME'] = 'boxen/our-boxen'
 
